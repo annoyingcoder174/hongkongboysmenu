@@ -38,6 +38,13 @@ body{
     left: 50%;
     transform: translateX(-50% );
 }
+.section-title .alert{
+    text-align: center;
+    display: flex;
+    color: rgb(255, 0, 0);
+    justify-content: center;
+    font-style:oblique;
+}
 .title-1{
     font-size: 40px;
     font-family:Georgia, 'Times New Roman', Times, serif;
